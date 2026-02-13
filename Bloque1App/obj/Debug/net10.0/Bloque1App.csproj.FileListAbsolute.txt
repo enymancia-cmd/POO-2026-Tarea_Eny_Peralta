@@ -1,0 +1,14 @@
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\bin\Debug\net10.0\Bloque1App.exe
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\bin\Debug\net10.0\Bloque1App.deps.json
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\bin\Debug\net10.0\Bloque1App.runtimeconfig.json
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\bin\Debug\net10.0\Bloque1App.dll
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\bin\Debug\net10.0\Bloque1App.pdb
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\Bloque1App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\Bloque1App.AssemblyInfoInputs.cache
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\Bloque1App.AssemblyInfo.cs
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\Bloque1App.csproj.CoreCompileInputs.cache
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\Bloque1App.dll
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\refint\Bloque1App.dll
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\Bloque1App.pdb
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\Bloque1App.genruntimeconfig.cache
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque1App\obj\Debug\net10.0\ref\Bloque1App.dll
