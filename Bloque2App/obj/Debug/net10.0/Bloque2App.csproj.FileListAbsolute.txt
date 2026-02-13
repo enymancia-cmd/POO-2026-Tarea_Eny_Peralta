@@ -1,0 +1,14 @@
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\bin\Debug\net10.0\Bloque2App.exe
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\bin\Debug\net10.0\Bloque2App.deps.json
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\bin\Debug\net10.0\Bloque2App.runtimeconfig.json
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\bin\Debug\net10.0\Bloque2App.dll
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\bin\Debug\net10.0\Bloque2App.pdb
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\Bloque2App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\Bloque2App.AssemblyInfoInputs.cache
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\Bloque2App.AssemblyInfo.cs
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\Bloque2App.csproj.CoreCompileInputs.cache
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\Bloque2App.dll
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\refint\Bloque2App.dll
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\Bloque2App.pdb
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\Bloque2App.genruntimeconfig.cache
+C:\Users\ENYYYYY\Desktop\proyectos\Tarea\Bloque2App\obj\Debug\net10.0\ref\Bloque2App.dll
