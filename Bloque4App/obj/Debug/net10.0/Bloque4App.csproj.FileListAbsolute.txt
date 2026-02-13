@@ -1,0 +1,15 @@
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\bin\Debug\net10.0\Bloque4App.exe
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\bin\Debug\net10.0\Bloque4App.deps.json
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\bin\Debug\net10.0\Bloque4App.runtimeconfig.json
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\bin\Debug\net10.0\Bloque4App.dll
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\bin\Debug\net10.0\Bloque4App.pdb
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.AssemblyInfoInputs.cache
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.AssemblyInfo.cs
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.csproj.CoreCompileInputs.cache
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.sourcelink.json
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.dll
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\refint\Bloque4App.dll
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.pdb
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\Bloque4App.genruntimeconfig.cache
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque4App\obj\Debug\net10.0\ref\Bloque4App.dll
