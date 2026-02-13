@@ -1,0 +1,15 @@
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\bin\Debug\net10.0\Bloque5App.exe
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\bin\Debug\net10.0\Bloque5App.deps.json
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\bin\Debug\net10.0\Bloque5App.runtimeconfig.json
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\bin\Debug\net10.0\Bloque5App.dll
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\bin\Debug\net10.0\Bloque5App.pdb
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.AssemblyInfoInputs.cache
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.AssemblyInfo.cs
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.csproj.CoreCompileInputs.cache
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.sourcelink.json
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.dll
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\refint\Bloque5App.dll
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.pdb
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\Bloque5App.genruntimeconfig.cache
+C:\Users\ENYYYYY\Desktop\TAREA\Tarea\Bloque5App\obj\Debug\net10.0\ref\Bloque5App.dll
